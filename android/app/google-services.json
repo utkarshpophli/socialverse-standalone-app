@@ -1,0 +1,415 @@
+{
+  "project_info": {
+    "project_number": "115873070240",
+    "project_id": "flic-69356",
+    "storage_bucket": "flic-69356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115873070240:android:8c112465b3d31458299dc5",
+        "android_client_info": {
+          "package_name": "com.socialverse.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115873070240-d8lclc3mggkv9roheqgurken9pg2efi8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialverse.app",
+            "certificate_hash": "ab9b3b4e45c4c1bbdfa18b5ce08c46e10772d086"
+          }
+        },
+        {
+          "client_id": "115873070240-gt4652388540edsqivfeopcfuome1h2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialverse.app",
+            "certificate_hash": "88b4a3c98ac93d9bb6f955f5c2f862134c2052b7"
+          }
+        },
+        {
+          "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgq5BlWQ9YyJcLWobVsSU-HwQ1KCesomk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115873070240-5e5q67965r9om0ap4a7maeadjir9tvig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.subverse.university",
+                "app_store_id": "1659125838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115873070240:android:4636f1cf90e05201299dc5",
+        "android_client_info": {
+          "package_name": "com.subverse.aiccelerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115873070240-ihd7bq7fmjr7piks5erckffe9fghg6uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subverse.aiccelerator",
+            "certificate_hash": "88b4a3c98ac93d9bb6f955f5c2f862134c2052b7"
+          }
+        },
+        {
+          "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgq5BlWQ9YyJcLWobVsSU-HwQ1KCesomk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115873070240-5e5q67965r9om0ap4a7maeadjir9tvig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.subverse.university",
+                "app_store_id": "1659125838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115873070240:android:203e0c408929f54f299dc5",
+        "android_client_info": {
+          "package_name": "com.subverse.altruism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115873070240-3mmbq5jb5bh8ecg6je9b4a3b2tb6ajqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subverse.altruism",
+            "certificate_hash": "88b4a3c98ac93d9bb6f955f5c2f862134c2052b7"
+          }
+        },
+        {
+          "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgq5BlWQ9YyJcLWobVsSU-HwQ1KCesomk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115873070240-5e5q67965r9om0ap4a7maeadjir9tvig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.subverse.university",
+                "app_store_id": "1659125838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115873070240:android:cf02a9d537945d9f299dc5",
+        "android_client_info": {
+          "package_name": "com.subverse.christian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115873070240-ehjr50sviehhhd3q1tma4rp11k4st84m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subverse.christian",
+            "certificate_hash": "88b4a3c98ac93d9bb6f955f5c2f862134c2052b7"
+          }
+        },
+        {
+          "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgq5BlWQ9YyJcLWobVsSU-HwQ1KCesomk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115873070240-5e5q67965r9om0ap4a7maeadjir9tvig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.subverse.university",
+                "app_store_id": "1659125838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115873070240:android:f2d4cfc875457f62299dc5",
+        "android_client_info": {
+          "package_name": "com.subverse.pillai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115873070240-eovhjdsi5cjl8jm9l8m3r13tsjthhpf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subverse.pillai",
+            "certificate_hash": "88b4a3c98ac93d9bb6f955f5c2f862134c2052b7"
+          }
+        },
+        {
+          "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgq5BlWQ9YyJcLWobVsSU-HwQ1KCesomk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115873070240-5e5q67965r9om0ap4a7maeadjir9tvig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.subverse.university",
+                "app_store_id": "1659125838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115873070240:android:f9f61d69e4a33bed299dc5",
+        "android_client_info": {
+          "package_name": "com.subverse.startup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115873070240-o4540phgktia5geqnthdaa5lukp9v51i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subverse.startup",
+            "certificate_hash": "88b4a3c98ac93d9bb6f955f5c2f862134c2052b7"
+          }
+        },
+        {
+          "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgq5BlWQ9YyJcLWobVsSU-HwQ1KCesomk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115873070240-5e5q67965r9om0ap4a7maeadjir9tvig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.subverse.university",
+                "app_store_id": "1659125838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115873070240:android:37c06cd98c227272299dc5",
+        "android_client_info": {
+          "package_name": "com.subverse.university"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115873070240-vpitfl2ddhd8pjt0mht2jfil2sdav79o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subverse.university",
+            "certificate_hash": "88b4a3c98ac93d9bb6f955f5c2f862134c2052b7"
+          }
+        },
+        {
+          "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgq5BlWQ9YyJcLWobVsSU-HwQ1KCesomk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115873070240-5e5q67965r9om0ap4a7maeadjir9tvig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.subverse.university",
+                "app_store_id": "1659125838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115873070240:android:0fc078fdd57def8d299dc5",
+        "android_client_info": {
+          "package_name": "com.subverse.vible"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115873070240-hr7qfobvpvq3bdqu72a8vdukf83lirhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subverse.vible",
+            "certificate_hash": "88b4a3c98ac93d9bb6f955f5c2f862134c2052b7"
+          }
+        },
+        {
+          "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgq5BlWQ9YyJcLWobVsSU-HwQ1KCesomk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115873070240-5e5q67965r9om0ap4a7maeadjir9tvig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.subverse.university",
+                "app_store_id": "1659125838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115873070240:android:e3b603322ed05e25299dc5",
+        "android_client_info": {
+          "package_name": "com.subverse.whitepill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgq5BlWQ9YyJcLWobVsSU-HwQ1KCesomk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115873070240-6ki68r6sik2o631hrna539bjcl1qhqcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115873070240-5e5q67965r9om0ap4a7maeadjir9tvig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.subverse.university",
+                "app_store_id": "1659125838"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
